@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Feb 2021 01:32:14 at localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" localhost/wordpress/ -O1 "C:\My Web Sites\Pain2d" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:32:44	Error: 	"Forbidden" (403) at link translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit (from localhost/wordpress/)
+01:32:58	Warning: 	Moved Permanently for localhost/wordpress/?p=75
+01:32:58	Warning: 	File has moved from localhost/wordpress/?p=75 to http://localhost/wordpress/team/
+01:33:03	Warning: 	Moved Permanently for localhost/wordpress/?p=217
+01:33:03	Warning: 	File has moved from localhost/wordpress/?p=217 to http://localhost/wordpress/research/
+01:33:05	Warning: 	Moved Permanently for localhost/wordpress/?p=211
+01:33:05	Warning: 	File has moved from localhost/wordpress/?p=211 to http://localhost/wordpress/tutorial/
+01:33:09	Warning: 	Moved Permanently for localhost/wordpress/?p=463
+01:33:09	Warning: 	File has moved from localhost/wordpress/?p=463 to http://localhost/wordpress/member1/
+01:33:12	Warning: 	Moved Permanently for localhost/wordpress/?p=366
+01:33:12	Warning: 	File has moved from localhost/wordpress/?p=366 to http://localhost/wordpress/pain2d-designer-tutorial/
+01:33:17	Warning: 	Moved Permanently for localhost/wordpress/?p=334
+01:33:17	Warning: 	File has moved from localhost/wordpress/?p=334 to http://localhost/wordpress/pain2d-tool-tutorial/
+01:33:21	Warning: 	Moved Permanently for localhost/wordpress/?p=325
+01:33:21	Warning: 	File has moved from localhost/wordpress/?p=325 to http://localhost/wordpress/pain2d-tablet-tutorial/
+01:33:25	Warning: 	Moved Permanently for localhost/wordpress/?p=253
+01:33:25	Warning: 	File has moved from localhost/wordpress/?p=253 to http://localhost/wordpress/download/
+01:33:26	Warning: 	Moved Permanently for localhost/wordpress/?p=165
+01:33:26	Warning: 	File has moved from localhost/wordpress/?p=165 to http://localhost/wordpress/pain2d-tablet/
+01:33:27	Warning: 	Moved Permanently for localhost/wordpress/?p=291
+01:33:27	Warning: 	File has moved from localhost/wordpress/?p=291 to http://localhost/wordpress/pain2d-tool/
+01:33:28	Warning: 	Moved Permanently for localhost/wordpress/?p=302
+01:33:28	Warning: 	File has moved from localhost/wordpress/?p=302 to http://localhost/wordpress/pain2d-designer/
+01:33:29	Warning: 	Moved Permanently for localhost/wordpress/?p=483
+01:33:29	Warning: 	File has moved from localhost/wordpress/?p=483 to http://localhost/wordpress/member2/
+01:33:31	Warning: 	Moved Permanently for localhost/wordpress/?p=750
+01:33:31	Warning: 	File has moved from localhost/wordpress/?p=750 to http://localhost/wordpress/m3/
+01:33:32	Warning: 	Moved Permanently for localhost/wordpress/?p=789
+01:33:32	Warning: 	File has moved from localhost/wordpress/?p=789 to http://localhost/wordpress/m4/
+01:33:33	Warning: 	Moved Permanently for localhost/wordpress/?p=827
+01:33:33	Warning: 	File has moved from localhost/wordpress/?p=827 to http://localhost/wordpress/m5/
+01:33:35	Warning: 	Moved Permanently for localhost/wordpress/?p=1089
+01:33:35	Warning: 	File has moved from localhost/wordpress/?p=1089 to http://localhost/wordpress/m10/
+01:33:36	Warning: 	Moved Permanently for localhost/wordpress/?p=895
+01:33:36	Warning: 	File has moved from localhost/wordpress/?p=895 to http://localhost/wordpress/m6/
+01:33:37	Warning: 	Moved Permanently for localhost/wordpress/?p=864
+01:33:37	Warning: 	File has moved from localhost/wordpress/?p=864 to http://localhost/wordpress/m8/
+01:33:39	Warning: 	Moved Permanently for localhost/wordpress/?p=887
+01:33:39	Warning: 	File has moved from localhost/wordpress/?p=887 to http://localhost/wordpress/m9/
+01:33:40	Warning: 	Moved Permanently for localhost/wordpress/?p=1200
+01:33:40	Warning: 	File has moved from localhost/wordpress/?p=1200 to http://localhost/wordpress/m11/
+01:33:41	Warning: 	Moved Permanently for localhost/wordpress/?p=850
+01:33:41	Warning: 	File has moved from localhost/wordpress/?p=850 to http://localhost/wordpress/m7/
+01:33:43	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/uploads/2020/11/team-scaled.jpg (from localhost/wordpress/wp-content/uploads/elementor/css/post-483.css?ver=1613423166)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 29 seconds : 347 links scanned, 323 files written (35244250 bytes overall), 137 files updated [1696594 bytes received at 19062 bytes/sec], 3155754 bytes transferred using HTTP compression in 115 files, ratio 19%, 9.6 requests per connection
+(2 errors, 42 warnings, 0 messages)
